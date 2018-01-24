@@ -1,4 +1,4 @@
-class MonsterAttacks():
+class DungeonEvents():
     def __init__(self, events):
         self.events = { event : dict() for event in events }
 
